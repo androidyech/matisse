@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.gifmaker.android</groupId>
+  <artifactId>gifmaker</artifactId>
+  <versioning>
+    <release>gifmaker-1.0.0</release>
+    <versions>
+      <version>gifmaker-1.0.0</version>
+    </versions>
+    <lastUpdated>20191217053728</lastUpdated>
+  </versioning>
+</metadata>
